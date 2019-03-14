@@ -1,1 +1,3 @@
 # Blog
+
+Laravel Vue project

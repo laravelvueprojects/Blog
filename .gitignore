@@ -1,0 +1,5 @@
+storage/framework/sessions
+storage/logs
+storage/logs/laravel.log
+.env
+node_modules
